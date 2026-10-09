@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+.secrets/
+credentials.json
+token.json
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
