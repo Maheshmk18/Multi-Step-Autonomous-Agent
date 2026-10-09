@@ -4,7 +4,7 @@ A local multi-agent assistant for web research, Gmail actions, and read-only Mon
 
 The interface is a small run console inspired by Rival's agent workflow layout. It shows run progress, results, sources, and Gmail approvals.
 
-See [BUILD_PLAN.md](BUILD_PLAN.md) for the phases, scope, and completion criteria.
+
 
 ## Architecture
 
